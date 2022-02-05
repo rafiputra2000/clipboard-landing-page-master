@@ -206,11 +206,11 @@ footer a:hover{
 /*****************************Media Quaries*****************************************/
 @media screen and (max-width:620px) {
 
-  .main-top-container{
+/*   .main-top-container{
     background-image: url("images/bg-header-mobile.png");
     background-repeat: no-repeat;
     background-size: contain;
-  }
+  } */
 
   .top-header-content{
     width: 55%;
@@ -295,11 +295,6 @@ footer a:hover{
 
 
 /*****************************IMG CLASS SELECTOR*****************************************/
-.bg-desktop{
-  position: absolute;
-  width: 100%
-}
-
 .logo{
   margin-bottom: 30px;
 }
