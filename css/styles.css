@@ -229,8 +229,8 @@ footer a:hover{
   }
 
   .img-computer{
-    left: 1px;
-    align-self: center;
+/*     left: 1px;
+    align-self: center; */
     width: 300px;
     height: 300px;
   }
