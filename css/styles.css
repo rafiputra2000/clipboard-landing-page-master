@@ -209,7 +209,7 @@ footer a:hover{
   .main-top-container{
     background-image: url("images/bg-header-mobile.png");
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: 100% 100%;
   }
 
   .top-header-content{
@@ -229,8 +229,8 @@ footer a:hover{
   }
 
   .img-computer{
-/*     left: 1px;
-    align-self: center; */
+    left: 1px;
+    align-self: center;
     width: 300px;
     height: 300px;
   }
@@ -242,14 +242,18 @@ footer a:hover{
   }
 
   .middle-description2{
-    width: 50%;
+    width: 55%;
     /* margin: 50px auto; */
   }
 
   .bottom-content{
     margin: auto;
-    width: 50%;
+    width: 55%;
   }
+
+  .bottom-content-last {
+    width: 55%;
+}
 
   .bottom-content2{
     display: flex;
@@ -300,10 +304,10 @@ footer a:hover{
   margin-bottom: 30px;
 }
 
-/* .img-computer{
+.img-computer{
   position: relative;
   right: 30px;
-} */
+}
 
 .img-devices{
   display: inline-block;
