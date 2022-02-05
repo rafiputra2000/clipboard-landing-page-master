@@ -29,7 +29,8 @@ h3{
 
 .top-header-content{
   text-align: center;
-  padding: 120px;
+  padding-top: 120px;
+  padding-bottom: 120px;
   line-height: 2;
   width: 35%;
   margin: auto;
@@ -212,16 +213,14 @@ footer a:hover{
     background-size: contain;
   }
 
+  .logo{
+    display: inline-block;
+  }
+
   .top-header-content{
     display: flex;
     flex-direction: column;
     width: 55%;
-
-  }
-  
-    .logo{
-    width: 200px;
-    height: 200px;
 
   }
 
