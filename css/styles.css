@@ -147,12 +147,9 @@ footer{
 
 }
 
-.faqs,
-.contact-us,
-.privacy-policy,
-.press-kit,
-.install-guide{
+footer .footer-content a{
   text-decoration: none;
+  color: black;
 }
 
 .faqs{
